@@ -25,7 +25,7 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "上海/Shanghai"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
@@ -72,7 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-  csdn             : "https://blog.csdn.net/weixin_45519621?spm=1010.2135.3001.5421"# URL
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
